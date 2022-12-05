@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellenbs&label=Profile%20views&color=0e75b6&style=flat" alt="ellenbs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ellenbs" alt="ellenbs" /></a> </p>
-
 - 📫 How to reach me **ellenbs@al.insper.edu.br**
 
 <h3 align="left">Connect with me:</h3>
